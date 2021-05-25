@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.equipeTonerre;
+package com.equipeTonerre; 
 
 /**
  *
@@ -19,6 +19,9 @@ public class AppCtr {
         System.out.println("Karine dit: Voyons si ça marche maintenant. J'ai clôné"
                 + " le repository de l'équipde du tonerre... et maintenant, je vais faire"
                 + " un push...");
+        System.out.println("Bonjour co-équipières!J'ai cloné le projet sur "
+                + "la branche master et maintenant"
+                + " je vais le faire sur la branche main");
     }
     
 }
