@@ -16,6 +16,9 @@ public class AppCtr {
      */
     public static void main(String[] args) {
         System.out.println("Karine dit: Bonjour mes super co-équipières!");
+        System.out.println("Karine dit: Voyons si ça marche maintenant. J'ai clôné"
+                + " le repository de l'équipde du tonerre... et maintenant, je vais faire"
+                + " un push...");
     }
     
 }
