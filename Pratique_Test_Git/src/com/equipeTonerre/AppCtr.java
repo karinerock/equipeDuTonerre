@@ -22,6 +22,7 @@ public class AppCtr {
         System.out.println("Bonjour co-équipières!J'ai cloné le projet sur "
                 + "la branche master et maintenant"
                 + " je vais le faire sur la branche main");
+        System.out.println("Karine dit: Super! Ça a marché!! Il ne reste que Pascale!!");
     }
     
 }
