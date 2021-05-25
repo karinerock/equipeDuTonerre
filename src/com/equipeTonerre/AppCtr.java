@@ -17,7 +17,6 @@ public class AppCtr {
     public static void main(String[] args) {
         System.out.println("Karine dit: Bonjour mes super co-équipières!");
         System.out.println("Bon...mtn je vais faire un push");
-        System.out.println("Crime bine, je comprends rien...");
     }
     
 }
